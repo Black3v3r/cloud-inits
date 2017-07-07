@@ -3,7 +3,7 @@ export DEBIAN_FRONTEND=noninteractive;
 
 whoami
 pwd
-export $HOME="/root"
+export HOME="/root"
 echo $HOME
 
 echo "\nPort 443" >> /etc/ssh/sshd_config
