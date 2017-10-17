@@ -1,7 +1,7 @@
 # cloud-inits
 cloud-init files to start servers fast and easily
 
-==================================
+---
 
 ## Basic Debian starter
 ```sh
